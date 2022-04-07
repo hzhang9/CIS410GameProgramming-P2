@@ -11,14 +11,16 @@
 **Used:**  
 **Trigger:**
 ### 3. Particle Effect
-**Used: Ghosts have white particles surrounding them**  
-**Trigger: Constant**
+**Used:** Ghosts have white particles surrounding them  
+**Trigger:** Constant
 ## **Contributions**
-Nick Onofrei: Problem 3,4,5 of assignment.  
+Turan Bulut: Problem 3,5 of assignment.  
+Nick Onofrei: Problem 4,5 of assignment.  
 Haoran Zhang: Problem 1,2,5 of assignment.
 ## **Reference** 
 https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner?uv=2020.3
 ## **Identifying Information**
 **Authors:**  
+Turan Bulut, 
 Nick Onofrei,  
 Haoran Zhang, hzhang9@uoregon.edu
