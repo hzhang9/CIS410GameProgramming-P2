@@ -167,6 +167,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: PointOfView
       objectReference: {fileID: 0}
+    - target: {fileID: 2457233756198262015, guid: 4e25c572e3a0b2d49898cac6ba950516,
+        type: 3}
+      propertyPath: m_Height
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2457233756198262015, guid: 4e25c572e3a0b2d49898cac6ba950516,
+        type: 3}
+      propertyPath: m_Radius
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2457233756198262015, guid: 4e25c572e3a0b2d49898cac6ba950516,
+        type: 3}
+      propertyPath: m_Center.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2457233756198262015, guid: 4e25c572e3a0b2d49898cac6ba950516,
+        type: 3}
+      propertyPath: m_Center.z
+      value: 0.95
+      objectReference: {fileID: 0}
     - target: {fileID: 5706158963867287388, guid: 4e25c572e3a0b2d49898cac6ba950516,
         type: 3}
       propertyPath: m_RootOrder

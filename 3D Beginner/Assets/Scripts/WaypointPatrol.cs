@@ -23,5 +23,17 @@ public class WaypointPatrol : MonoBehaviour
             navMeshAgent.SetDestination(waypoints[m_CurrentWaypointIndex].position);
         }
     }
+
+    public void IncreaseSpeed()
+    //increase chase speed
+    {
+        navMeshAgent.speed = 3f;
+    }
+
+    public void DecreaseSpeed()
+    //decrease chase speed
+    {
+        navMeshAgent.speed = 1.5f;
+    }
 }
 
