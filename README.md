@@ -5,7 +5,7 @@
 ## **Description of Assignment Requirements**
 ### 1. Dot Product
 **Used:** In the "ChangeChaseSpeed"(used in "SpeedChange" GameObject under Ghost1 - Ghost4) script, detect the orientation of John lemon to ghost and the angle between them by dot product, then change chase speed of ghosts by the function IncreaseSpeed() and DecreaseSpeed() from script WaypointPatrol.  
-**Trigger:** If John lemon in front of ghost and John lemon is within 25 degrees of ghost's field of vision (ignore distance), the speed of ghost will be double (As a balance of difficulty, shrunking ghost's capture distance, so now it's more like capturing the range than PointOfView).
+**Trigger:** If John lemon in front of ghost and John lemon is within 25 degrees of ghost's field of vision (ignore distance), the speed of ghost will be double (As a balance of difficulty, shrunking ghost's capture distance, so now it's more like capturing the range than PointOfView).  
 *The walls cannot block the view of ghosts
 ### 2. Linear Interpolation
 **Used:**  
