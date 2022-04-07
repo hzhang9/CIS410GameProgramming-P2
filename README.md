@@ -21,6 +21,6 @@ Haoran Zhang: Problem 1,2,5 of assignment.
 https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner?uv=2020.3
 ## **Identifying Information**
 **Authors:**  
-Turan Bulut, 
+Turan Bulut,  
 Nick Onofrei,  
 Haoran Zhang, hzhang9@uoregon.edu
