@@ -22,5 +22,5 @@ https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner?uv=2020.3
 ## **Identifying Information**
 **Authors:**  
 Turan Bulut,  
-Nick Onofrei,  
+Nick Onofrei, nonocifre@uoreogn.edu  
 Haoran Zhang, hzhang9@uoregon.edu
