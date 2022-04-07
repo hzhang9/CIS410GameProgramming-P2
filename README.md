@@ -11,8 +11,8 @@
 **Used:**  
 **Trigger:**
 ### 3. Particle Effect
-**Used:**  
-**Trigger:**
+**Used: Ghosts have white particles surrounding them**  
+**Trigger: Constant**
 ## **Contributions**
 Nick Onofrei: Problem 3,4,5 of assignment.  
 Haoran Zhang: Problem 1,2,5 of assignment.
