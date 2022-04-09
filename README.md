@@ -9,7 +9,7 @@
 **The walls cannot block the view of ghosts**
 ### 2. Linear Interpolation
 **Used:** In the DVDImage UI object. What's spookier that getting chased by ghosts? A DVD logo that hits the corner everytime! You can find this by going forward when you start the game, and you will see that
-one of the two paintings in front of you is really spooky. 
+one of the two paintings in front of you is really spooky.  
 **Implementation:** There is a world space canvas object that is the size of the painting on the wall, and this UI object have 4 children:
 1. DVDImageBackground: Background for the DVDImage
 2. DVDImage: UI Image that carries the DVD logo and have the Linear Interpolation script attachted to it. It goes back and forth between the the position of "LeftTop" and "BottomRight" game objects.
@@ -22,6 +22,7 @@ one of the two paintings in front of you is really spooky.
 Turan Bulut: Problem 3,5 of assignment.  
 Nick Onofrei: Problem 4,5 of assignment.  
 Haoran Zhang: Problem 1,2,5 of assignment.
+####
 ## **Reference** 
 https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner?uv=2020.3
 ## **Identifying Information**
