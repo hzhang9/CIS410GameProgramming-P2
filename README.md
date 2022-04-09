@@ -1,7 +1,7 @@
 # **CIS410GameProgramming-P2**
 ## **Operation**
 1. Complete clone entire repository.
-2. Use unity editor to build the corresponding game files for different platform, then run the game file.  
+2. Use unity editor to build the corresponding game files for different platform, then run the game file (Don't support WebGL).  
 ## **Description of Assignment Requirements**
 ### 1. Dot Product
 **Used:** In the "ChangeChaseSpeed"(used in "SpeedChange" GameObject under Ghost1 - Ghost4) script, detect the orientation of John lemon to ghost and the angle between them by dot product, then change chase speed of ghosts by the function IncreaseSpeed() and DecreaseSpeed() from script WaypointPatrol.  
